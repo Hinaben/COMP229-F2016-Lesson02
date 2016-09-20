@@ -11,7 +11,7 @@ namespace COMP229_F2016_Lesson02
 {
 
 
-    public partial class Default1
+    public partial class Services
     {
     }
 }
